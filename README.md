@@ -42,7 +42,7 @@ A Streamlit application that processes videos inside E2B sandboxes, analyzes fra
 ![Flowchart](flowchart.png)
 
 ### Demo Video
-[Watch the demo](demo.mp4)
+[Watch the demo](https://youtu.be/u08LN_Gh4HE?si=CwBRv5Zaq8VNOsMB)
 
 ## How It Works
 
