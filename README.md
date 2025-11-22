@@ -1,4 +1,4 @@
-# Video Frame Analyzer with Notion
+# Semantic video search
 
 A Streamlit application that processes videos inside E2B sandboxes, analyzes frames with Groq's vision/language models, and reads/writes data to Notion using MCP - all running within the E2B environment.
 
